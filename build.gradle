@@ -16,7 +16,7 @@
  */
 
 buildscript {
-    ext.kotlin_version = '1.0.0-beta-1038'
+    ext.kotlin_version = '1.0.0-beta-4583'
     repositories {
         jcenter()
         maven { url "http://oss.sonatype.org/content/repositories/snapshots/" }
